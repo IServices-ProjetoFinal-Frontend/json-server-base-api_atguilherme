@@ -6,6 +6,65 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "ademir@mail.com",
+      "password": "$2a$10$dLkxQmwOqjqwwgaLNzIykelqvXrqRiKzVpXODjv53IIGa6wUzUyju",
+      "name": "Ademir",
+      "zipcode": "11492-564",
+      "userType": "customer",
+      "id": 2
+    },
+    {
+      "email": "jose@mail.com",
+      "password": "$2a$10$hblKhfihS6qonNoPvCNmV.U9PgSRdFMc8c4HMClZO67v3Wbt0W6ma",
+      "name": "José",
+      "zipcode": "11492-564",
+      "userType": "customer",
+      "id": 3
+    },
+    {
+      "email": "josesilva@mail.com",
+      "password": "$2a$10$eqnKitn8N/Ueg6jdqNKB6.auMR8u4VV8dWp7nwkLJIROR9o93fqLq",
+      "name": "José da Silva",
+      "zipcode": "11492-123",
+      "userType": "professional",
+      "userJob": "Pedreiro",
+      "contact": "Celular (15) 99506-6543",
+      "id": 4
+    },
+    {
+      "email": "sergio@mail.com",
+      "password": "$2a$10$P0wyFzDo9eLyoihbxOUe4uzEi4uDzpCdrGcxF1gR64O0szT7WWjnO",
+      "name": "Sérgio Melo",
+      "zipcode": "11492-446",
+      "userType": "professional",
+      "userJob": "Eletricista",
+      "contact": "WhatsApp (15) 95478-4523",
+      "id": 5
+    },
+    {
+      "email": "antonio@mail.com",
+      "password": "$2a$10$sVW0d4L6qVbyboX55gukueiQ3O70qvte7kxsR//ZMrYTKnAifJb2O",
+      "name": "Antônio Mendonça",
+      "zipcode": "11492-789",
+      "userType": "professional",
+      "userJob": "Pintor",
+      "contact": "WhatsApp (15) 99805-1234",
+      "id": 6
+    },
+    {
+      "email": "maria@mail.com",
+      "password": "$2a$10$Aqjm9V4s1Ed4/Zdev8UstePFmOUZwWMBQZOye4fc3aJy5bmVc2/H2",
+      "name": "Maria Souza",
+      "zipcode": "11492-023",
+      "userType": "professional",
+      "userJob": "Diarista",
+      "contact": "Celular (15) 99506-6543",
+      "id": 7
     }
+  ],
+  "jobs": [
+    {}
   ]
 }
